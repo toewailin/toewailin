@@ -21,7 +21,7 @@ This repository serves as a showcase of my coding journey, featuring projects, e
 
 - **GitHub:** [github.com/toewailin](https://github.com/toewailin)
 - **LinkedIn:** [linkedin.com/in/toewailin](https://www.linkedin.com/in/toewailin/)
-- **Portfolio:** [toewailin.dev](https://toewailin.dev)
+- **Portfolio:** [toewailin](https://toewailin.github.io/)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect. Happy coding! 🚀
 
