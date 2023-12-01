@@ -15,10 +15,3 @@ I'm Toe Wai Lin, a passionate web developer with skills spanning various technol
 - **Other Frameworks:** LayaAir, Godot, Cocos (for game development) 🎮
 - **Soft Skills:** Team Collaboration, Communication, Problem Solving, Time Management 🤝💬💡⏰
 
-## Connect with Me
-
-- **Resume:** [github.com/toewailin](https://toewailin.github.io/toewailin/)
-- **LinkedIn:** [linkedin.com/in/toewailin](https://www.linkedin.com/in/toewailin/)
-- **Facebook:** [facebook.com/toewailin](https://www.facebook.com/toewailin.dev)
-- **Telegram:** [telegram.com/toewailin](https://t.me/aeiouzip)
-- **Portfolio:** [toewailin.github.io](https://toewailin.github.io/)
