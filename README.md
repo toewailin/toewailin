@@ -1,7 +1,6 @@
 ## About Me
 
 I'm Toe Wai Lin, a passionate web developer with skills spanning various technologies. From front-end to back-end, I enjoy crafting solutions that make a positive impact.
-- [View](https://toewailin.github.io/toewailin/)
 
 ## Skills
 
@@ -18,7 +17,6 @@ I'm Toe Wai Lin, a passionate web developer with skills spanning various technol
 
 ## Connect with Me
 
-- **GitHub:** [github.com/toewailin](https://github.com/toewailin)
+- **GitHub:** [github.com/toewailin](https://toewailin.github.io/toewailin/)
 - **LinkedIn:** [linkedin.com/in/toewailin](https://www.linkedin.com/in/toewailin/)
 - **Portfolio:** [toewailin.github.io](https://toewailin.github.io/)
-
